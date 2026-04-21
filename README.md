@@ -108,30 +108,6 @@ Dari situ gue fokus ke:
 
 ---
 
-## 🔥 Selected Work
-
-### 🟦 The Good Souvenir — *Premium Corporate Merchandise*
-- SEO-driven content & website strategy
-- Brand positioning & messaging
-- Visual yang fokus ke conversion
-
-### 🟨 Deltafoods — *Consumer Food Brand (Tuna & Seafood)*
-- High-end food visuals & commercials
-- Product-first storytelling
-- Campaign dengan angle nutrition & value
-
-### 🟩 Etira — *Healthy Food Brand (Mushroom & Tuna)*
-- Clean & modern visual direction
-- Edukasi + lifestyle content
-- Commercial-ready visuals
-
-### 🟧 Esnad — *Middle Eastern Spice Brand*
-- Cultural-driven storytelling
-- Cinematic cooking sequence
-- Premium product visuals
-
----
-
 ## 🎥 My Visual Style
 
 - 📷 Photorealistic & cinematic
