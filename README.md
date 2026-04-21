@@ -167,9 +167,6 @@ Kalau lo lagi cari:
 |---|---|
 | 📩 Email | [Endhakim207@gmail.com](mailto:Endhakim207@gmail.com) |
 | 💼 LinkedIn | [Rillah Hakim](https://www.linkedin.com/in/rillah-hakim-145646197) |
-| 📸 Etira | [etira.indonesia](https://www.instagram.com/etira.indonesia/) |
-| 📸 Deltafoods | [deltafoodsid](https://www.instagram.com/deltafoodsid/) |
-| 📸 Esnad | [esnadfoods.id](https://www.instagram.com/esnadfoods.id/) |
 
 ---
 
