@@ -108,7 +108,7 @@ Dari situ gue fokus ke:
 
 | Category | Tools |
 |---|---|
-| **AI Prompting & Visual Tools** | Kling, Veo, Higgsfield AI, Gmeini AI, Nano Banana, dan lainnya |
+| **AI Prompting & Visual Tools** | Kling, Veo, Higgsfield AI, Gemini AI, Nano Banana, dan lainnya |
 | **Design & Editing** | Adobe Creative Suite (Premiere Pro, Photoshop, After Effects) |
 
 ---
