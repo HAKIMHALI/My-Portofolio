@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hakim
 
-### Visual AI Video Director & Social Media Strategist
+### Visual AI Video & Social Media Strategist
 
 > *Gue bikin visual yang bukan cuma bagus — tapi punya impact & jualan.*
 
@@ -25,50 +25,36 @@ Gue build visuals yang:
 ### 🎬 Motion Graphic Specialist & AI Video Enthusiast
 **PT. Delta Food Distribusi** · Kontrak
 *Des 2024 – Sekarang · 1+ tahun · Indonesia*
-- Produksi motion graphic & AI-generated video untuk kebutuhan brand komersial
-- Prompt engineering untuk tools AI visual (Kling, Veo, dll)
-- Visual content yang siap pakai untuk campaign digital & sosial media
 
 ---
 
 ### 🎞️ Video Editor
 **PT Triutama Maju Sejahtera** · Kontrak
 *Des 2023 – Jul 2024 · 8 bulan · Penjaringan, Jakarta Raya*
-- Editing video komersial & konten digital
-- Kolaborasi dengan tim kreatif untuk eksekusi visual brand
 
 ---
 
 ### 🖥️ Senior Video Editor
 **PT New Sea Indonesia** · Purnawaktu
 *Sep 2023 – Okt 2023 · 2 bulan · Jakarta Pusat*
-- Post-production & color grading
-- Adobe Photoshop, Adobe Premiere Pro, dan 5+ skill teknis lainnya
 
 ---
 
 ### ✨ Visual Effects Artist
 **PT MNC Pictures** · Freelance
 *Des 2020 – Sep 2023 · 2 tahun 10 bulan · Kebun Jeruk, Jakarta Barat*
-- VFX compositing untuk produksi film & konten broadcast
-- Adobe Photoshop, Adobe Premiere Pro, dan 7+ skill teknis lainnya
-- *(LinkedIn noted: "membantu saya mendapatkan pekerjaan ini")*
 
 ---
 
 ### 🎥 Video Editor
 **PT. Mahkota Promotion** · Purnawaktu
 *Apr 2019 – Des 2019 · 9 bulan · Menteng Dalam, Jakarta Selatan*
-- Editing video promosi & iklan
-- Client Relations, Adobe Photoshop, dan 8+ skill lainnya
 
 ---
 
 ### 🎨 Video Editor & Graphic Designer
 **Indonesia Asian Para Games 2018 Organizing Committee (INAPGOC)** · Purnawaktu
 *Apr 2018 – Apr 2019 · 1 tahun 1 bulan · Jakarta Selatan*
-- Produksi visual & editing video untuk event olahraga internasional
-- Client Relations, Adobe Photoshop, dan 11+ skill lainnya
 
 ---
 
