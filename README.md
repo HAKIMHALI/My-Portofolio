@@ -108,11 +108,8 @@ Dari situ gue fokus ke:
 
 | Category | Tools |
 |---|---|
-| **AI Visual Tools** | Kling, Veo, dan lainnya |
-| **Prompt Engineering** | Advanced & structured |
+| **AI Prompting & Visual Tools** | Kling, Veo, Higgsfield AI, Gmeini AI, Nano Banana, dan lainnya |
 | **Design & Editing** | Adobe Creative Suite (Premiere Pro, Photoshop, After Effects) |
-| **VFX** | Compositing & Motion Graphics |
-| **Framework** | Motion & Visual Direction Framework |
 
 ---
 
@@ -148,7 +145,7 @@ Dari situ gue fokus ke:
 ## 💡 What Makes Me Different
 
 - 🧠 Gue mikir kayak **marketer**, eksekusi kayak **director**
-- 🎬 Background **6+ tahun** di video editing, VFX, dan motion graphics
+- 🎬 Background **5+ tahun** di video editing, VFX, dan motion graphics
 - 🚫 Gue gak ngejar trend — gue **build visual positioning**
 - 🎯 Gue fokus ke quality yang **convert**, bukan sekadar banyak konten
 
